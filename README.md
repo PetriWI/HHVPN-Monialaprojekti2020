@@ -16,4 +16,3 @@ Petri Joni Patrik Markus
 
 
 
-![](https://raw.githubusercontent.com/PetriWI/HHVPN-Monialaprojekti2020/main/We%20did%20it!.JPG)
