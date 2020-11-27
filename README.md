@@ -15,8 +15,7 @@ Petri Joni Patrik Markus
 ペトリ　ジョニ　パトリック　マルクス
 
 
-Part one of our report in wiki page:
-https://github.com/PetriWI/HHVPN-Monialaprojekti2020.wiki.git
-
+Part one of our report in wiki part one Prelimiary tasks:
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Preliminary-tasks
 
 
