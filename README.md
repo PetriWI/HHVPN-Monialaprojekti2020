@@ -33,7 +33,7 @@ https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/IIS-Web-server
 Part five of our report: Insatlling Soft Ether: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Installing-SoftEther
 
 
-Part six of our report: Management configuration:
+Part six of our report: Management configuration: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Management-configuration
 
 Part seven of our report: Server Settings: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/VPN-settings
 
