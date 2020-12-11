@@ -20,21 +20,20 @@ https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Preliminary-tasks
 Part two of our report in wiki: Prelimiary tasks:
 https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Preliminary-tasks
 
-
-Part four of our report in wiki: IIS Web server:
-https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/IIS-Web-server
-
 Part tree of our report: AD installation:
 https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Active-Directory-installation
 
 Part Four of our report: IIS installation:
 https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/IIS-Web-server
 
-Part five of our report: Insatlling Soft Ether: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Installing-SoftEther
+Part five of our report: Insatlling Soft Ether: 
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Installing-SoftEther
 
+Part six of our report: Management configuration: 
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Management-configuration
 
-Part six of our report: Management configuration: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Management-configuration
+Part seven of our report: Server Settings: 
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/VPN-settings
 
-Part seven of our report: Server Settings: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/VPN-settings
-
-Part eight of our report: Connection Testing: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Connection-Testing
+Part eight of our report: Connection Testing: 
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Connection-Testing
