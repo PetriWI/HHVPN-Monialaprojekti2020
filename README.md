@@ -30,7 +30,11 @@ https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Active-Directory-insta
 Part Four of our report: IIS installation:
 https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/IIS-Web-server
 
-Part five of our report: Isnatlling Soft Ether:
+Part five of our report: Insatlling Soft Ether: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Installing-SoftEther
 
 
-Part six of our report:
+Part six of our report: Management configuration:
+
+Part seven of our report: Server Settings: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/VPN-settings
+
+Part eight of our report: Connection Testing: https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Connection-Testing
