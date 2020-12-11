@@ -23,3 +23,14 @@ https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Preliminary-tasks
 
 Part four of our report in wiki: IIS Web server:
 https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/IIS-Web-server
+
+Part tree of our report: AD installation:
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/Active-Directory-installation
+
+Part Four of our report: IIS installation:
+https://github.com/PetriWI/HHVPN-Monialaprojekti2020/wiki/IIS-Web-server
+
+Part five of our report: Isnatlling Soft Ether:
+
+
+Part six of our report:
