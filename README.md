@@ -6,7 +6,7 @@ Here will be showcasing our VPN installation, configuration and other things rel
 Petri Joni Patrik Markus
 
 # HHVPN-Monialaprojekti2020　に　ようこそ。
-このページは私たちのMonialaprojektiコースのために作るりました。
+このページは私たちのMonialaprojektiコースのために作りました。
 このコースに私たちはハーガヘリアのラボネットワークにリモートアクセス VPNをインストールします（つまりVPNゲートウェイ）。
 これでVPNインストール、コンフィグレーションと他のものをショーケースします。
 私たちはこのコース2020年の秋とていました。このドキュメンテーションは英語で書かれています。
